@@ -1,4 +1,9 @@
 # 使い方
-[ Discussions ]  タブから、議論に参加できます。
+[ Discussions ] (https://github.com/meme2wsx/Sample1/discussions) タブから、議論に参加できます
+
+
+
+# 
+
 
 
