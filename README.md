@@ -1,2 +1,3 @@
-# Sample1
-Sample1
+# 使い方
+Discussions　タブで、議論してください
+
