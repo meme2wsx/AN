@@ -1,3 +1,4 @@
 # 使い方
-Discussions　タブで、議論してください
+[ Discussions ]  タブから、議論に参加できます。
+
 
